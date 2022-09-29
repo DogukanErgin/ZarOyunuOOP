@@ -1,0 +1,5 @@
+C:\Users\Ergin\Desktop\publish\ZarOyunuOOP.exe
+C:\Users\Ergin\Desktop\publish\ZarOyunuOOP.dll
+C:\Users\Ergin\Desktop\publish\ZarOyunuOOP.deps.json
+C:\Users\Ergin\Desktop\publish\ZarOyunuOOP.runtimeconfig.json
+C:\Users\Ergin\Desktop\publish\ZarOyunuOOP.pdb

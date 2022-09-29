@@ -1,0 +1,15 @@
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.csproj.AssemblyReference.cache
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.AssemblyInfoInputs.cache
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.AssemblyInfo.cs
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.csproj.CoreCompileInputs.cache
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\bin\Debug\net6.0\ZarOyunuOOP.exe
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\bin\Debug\net6.0\ZarOyunuOOP.deps.json
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\bin\Debug\net6.0\ZarOyunuOOP.runtimeconfig.json
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\bin\Debug\net6.0\ZarOyunuOOP.dll
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\bin\Debug\net6.0\ZarOyunuOOP.pdb
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.dll
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\refint\ZarOyunuOOP.dll
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.pdb
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ZarOyunuOOP.genruntimeconfig.cache
+D:\yazılım\zarOyunuOOP\ZarOyunuOOP\ZarOyunuOOP\obj\Debug\net6.0\ref\ZarOyunuOOP.dll
